@@ -1,4 +1,10 @@
+/**
+ * 已经上传至GitHub账号里
+ * */
+
+
 package com.example.hh.uibestpractice;
+
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -24,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView msgRecyclerView;
 
     private MsgAdapter adapter;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
